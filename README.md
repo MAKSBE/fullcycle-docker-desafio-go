@@ -1,2 +1,2 @@
 # fullcycle-docker-desafio-go
-docker push gilsonmsantos/fullcycle:latest
+docker pull gilsonmsantos/fullcycle:latest
